@@ -2198,3 +2198,19 @@ V.WWt....V
 V.WtW....V
 VVVVVVVVVV
 ENDMAP
+
+NAME:   ruined_garden
+TAGS:   arrival no_monster_gen
+ORIENT: float
+MAP
+.t...t.@..
+..t......t
+.....t....
+t..t..{...
+..txxtxx.t
+@..xt.tt..
+..txtGtxt.
+t..t.ttt..
+..t.xxtx..
+.t.t@..tt.
+ENDMAP

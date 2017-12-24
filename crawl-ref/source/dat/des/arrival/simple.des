@@ -2167,3 +2167,16 @@ ttt...ss.............ss...ttt
  tt.......................tt
 xxxxxxxxxxxxxx.xxxxxxxxxxxxxx
 ENDMAP
+
+NAME:   lava_lake
+TAGS:   arrival no_monster_gen
+ORIENT: float
+MAP
+xxx+xxx
+xllWllx
+xlllWlx
+xllWWlx
+xlW{Wlx
+xlWWllx
+xlWlllx
+xxxxxxx

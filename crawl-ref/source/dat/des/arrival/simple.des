@@ -2172,12 +2172,13 @@ NAME:   lava_lake
 TAGS:   arrival no_monster_gen
 ORIENT: float
 MAP
-xxx+xxx
-xllWllx
-xlllWlx
-xllWWlx
-xlW{Wlx
-xlWWllx
-xlWlllx
-xxxxxxx
+xxxxx+xxxxx
+x..llWl...x
+x.llllWll.x
+xllllWWl..x
+x.llW{Wll.x
+x..lWWlll.x
+x.llWlll..x
+x..llWl..lx
+xxxxxxxxxxx
 ENDMAP

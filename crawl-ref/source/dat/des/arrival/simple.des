@@ -2182,3 +2182,19 @@ x.llWlll..x
 x..llWl..lx
 xxxxxxxxxxx
 ENDMAP
+
+NAME:   fountain_lake
+TAGS:   arrival no_monster_gen
+ORIENT: float
+MAP
+VVVVVV@VVV
+V..tWWW..V
+V..WwwW..V
+V.WwTwWt.V
+VWWWwW...V
+VWWwW....V
+VtWWt.{..V
+V.WWt....V
+V.WtW....V
+VVVVVVVVVV
+ENDMAP

@@ -1150,6 +1150,28 @@ xxxxxx   xxxxxxxrrx       xxwxxxxxxxxvxx
 ENDMAP
 
 ##############################################################################
+
+# Kobold House
+#
+NAME:   joel_koboldhouse
+TAGS:   no_monster_gen no_item_gen no_trap_gen
+DEPTH:  D:2-3
+ORIENT: float
+MONS:   kobold
+MAP
+...t.........
+.ccccccccccc.
+.c1...1..c>c.
+.+...C..1+.c.
+.c.1.....c<c.
+.ccccc+ccccc.
+..tc.$~..ct..
+...c....%c..@
+...ccccccc...
+t..........t.
+ENDMAP
+
+##############################################################################
 # Old Forge (1KB)
 #
 NAME:    old_forge

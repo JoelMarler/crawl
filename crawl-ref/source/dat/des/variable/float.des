@@ -1513,6 +1513,48 @@ xxxxxxxxx@xxxxxxxxx
 ENDMAP
 
 ##############################################################################
+
+# Castlemania
+#
+NAME:    joel_castlemania
+ORIENT:  float
+TAGS:    patrolling no_monster_gen no_item_gen no_trap_gen
+DEPTH:   D:13-15
+MONS:    human ; short bow . leather armour
+MONS:    human ; long sword . shield . plate armour . cloak
+MAP
+..............@..............
+.............................
+..wwWwwwwwwww...wwwwwWwwwww..
+..wwwwWwwwWww...wwwwwwwwwww..
+..wwt.t.t.t.t...t.t.t.t.tWw..
+..ww.....................ww..
+..wwt.ccccc.2...2.ccccc.tww..
+..Ww..c...ccc+++ccc...c..ww..
+..wwt.c.....1...1.....c.tww..
+..wW..c...............c..ww..
+..wwt.cc1.cccc+cccc.1cc.twW..
+..ww...c..c...~...c..c...ww..
+..wwt..c..c.2.$.2.c..c..tww..
+..ww...c..c$....%.c..c...ww..
+..Wwt..c.1c..%|$..c1.c..tww..
+..ww...c..c.$.**..c..c...Ww..
+..wwt..c..c.%.$..$c..c..tWw..
+..ww...c..c.2...2.c..c...ww..
+..wwt.cc..ccccccccc..cc.tww..
+..wW..c.1...........1.c..ww..
+..wwt.c.<...1...1...>.c.tww..
+..ww..c...ccccccccc...c..wW..
+..wwt.ccccc.......ccccc.tww..
+..ww.....................ww..
+..wwt.t.t.t.t.t.t.t.t.t.tww..
+..wwwwwwwwwwwwWwwwwwwwwwwWw..
+..WwwWwwwwwwwwwwwwWwwwwwwww..
+.............................
+.............................
+ENDMAP
+
+##############################################################################
 # Ogre Cave, by Lemuel
 #
 NAME:    lemuel_ogre_cave
